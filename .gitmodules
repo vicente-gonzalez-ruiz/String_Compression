@@ -1,0 +1,9 @@
+[submodule "LZ77"]
+	path = LZ77
+	url = git@github.com:vicente-gonzalez-ruiz/LZ77.git
+[submodule "LZ78"]
+	path = LZ78
+	url = git@github.com:vicente-gonzalez-ruiz/LZ78.git
+[submodule "LZW"]
+	path = LZW
+	url = git@github.com:vicente-gonzalez-ruiz/LZW.git
