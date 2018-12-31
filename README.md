@@ -1,1 +1,1 @@
-[Click me](https://cdn.rawgit.com/vicente-gonzalez-ruiz/string_compression/master/index.html).
+[Click me](https://vicente-gonzalez-ruiz.github.io/string_compression/).
