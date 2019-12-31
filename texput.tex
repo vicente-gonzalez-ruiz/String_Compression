@@ -1,17 +1,17 @@
-%%% Local Variables:
-%%% mode: latex
-%%% TeX-master: "<none>"
-%%% End:
-
-\title{String encoding}
-
+\title{String compression}
 \author{Vicente González Ruiz}
-
 \maketitle
+\tableofcontents
 
 \section{How it works?}
-
 \begin{itemize}
 \item By replacing strings by shorter code-words.
-\item Strings are searched in a dictionary, and the sequence of positions of the strings in the dictionary form the code-stream.
+\item Strings are searched in a dictionary, and the sequence of
+  positions of the strings in the dictionary form the code-stream.
 \end{itemize}
+
+\section{\mylink{LZ77}{LZ77}}
+\section{\mylink{LZ78}{LZ78}}
+\section{\mylink{LZW}{LZW}}
+
+\bibliography{text-compression}
